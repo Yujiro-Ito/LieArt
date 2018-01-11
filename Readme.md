@@ -3,6 +3,8 @@
 ## Overview
 1つのスマホで6人まで遊べる！お絵かきゲームアプリ！
 
+[GooglePlayStoreページ](https://play.google.com/store/apps/details?id=com.FITJC.ProductName)
+
 ## Description
 ビジネスコンテンツ賞に出展するために制作。プログラマ4人で開発し、プログラムリーダーを担当。主にシーン管理部分を製作し、チームに貢献。
 
